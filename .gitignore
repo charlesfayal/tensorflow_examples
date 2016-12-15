@@ -44,6 +44,7 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
+temp_auto_push.bat
 
 # Translations
 *.mo
@@ -91,3 +92,4 @@ ENV/
 # Data files
 *.gz
 **/*_data/
+.gitignore
